@@ -16,7 +16,7 @@ RunStatus1ALifeExpectancyAnalysis.py - Script that runs all of the analysis, and
 
 Status1ALifeExpectancyAnalysisFunctions.py - Script that contains all the functions for the aforementioned analysis. Used by RunStatus1ALifeExpectancyAnalysis.py
 
-IPCW.py - Contains the class definition for the IPCS survival estimator. Used by RunStatus1ALifeExpectancyAnalysis.py
+IPCW.py - Contains the class definition for the IPCW survival estimator. Used by RunStatus1ALifeExpectancyAnalysis.py
 
 KaplanMeier.py - Contains the class definition for KaplanMeier survival estimator. Used by RunStatus1ALifeExpectancyAnalysis.py and IPCW.py
 
