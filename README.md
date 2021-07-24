@@ -21,3 +21,5 @@ IPCW.py - Contains the class definition for the IPCW survival estimator. Used by
 KaplanMeier.py - Contains the class definition for KaplanMeier survival estimator. Used by RunStatus1ALifeExpectancyAnalysis.py and IPCW.py
 
 
+If you have any questions regarding the code, analysis, etc. please feel free to contact me at nwood@usna.edu.
+
