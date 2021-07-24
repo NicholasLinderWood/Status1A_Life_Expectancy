@@ -6,7 +6,7 @@ can_liin.dta, stathist_liin.dta, statjust_li1.dta
 
 DESCRIPTION OF FILES:
 
-Generate_A_and_B_Files.py -Script that creates two data sets. An "A" file and a "B" file. These files are formatted in such a way to be used for Kaplan-Meier/IPCW survival analysis. See the file for additional details.
+Generate_A_and_B_Files.py - Script that creates two data sets. An "A" file and a "B" file. These files are formatted in such a way to be used for Kaplan-Meier/IPCW survival analysis. See the file for additional details.
 
 Generate_Master_File.py - Used by Generate_A_and_B_Files.py
 
