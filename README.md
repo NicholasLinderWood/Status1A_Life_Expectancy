@@ -1,5 +1,5 @@
 # Status1A_Life_Expectancy
-Within this repository will be contained all of the code (described below) I used for the analysis in my "Life expectancy without a transplant of status 1A liver transplant candidates" (Currently undergoing revisions for publication in the American Journal of Transplantation). To do the analysis, I assume the user of this code will have access to the following standard analysis files from the Scientific Registry of Transplant Recipients:  
+Within this repository will be contained all of the code (described below) I used for the analysis in my "Life expectancy without a transplant of status 1A liver transplant candidates" (doi.org/10.1111/ajt.16830). To do the analysis, I assume the user of this code will have access to the following standard analysis files from the Scientific Registry of Transplant Recipients:  
 
 cand_liin.dta, stathist_liin.dta, statjust_li1.dta
 
